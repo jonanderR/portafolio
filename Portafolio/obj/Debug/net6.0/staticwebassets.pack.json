@@ -9,6 +9,30 @@
       "PackagePath": "staticwebassets\\Imagenes\\FotoPerfil.png"
     },
     {
+      "Id": "C:\\Users\\jonander.ruiz\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\Imagenes\\amazon.PNG",
+      "PackagePath": "staticwebassets\\Imagenes\\amazon.PNG"
+    },
+    {
+      "Id": "C:\\Users\\jonander.ruiz\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\Imagenes\\dotnet-imagen-2.png",
+      "PackagePath": "staticwebassets\\Imagenes\\dotnet-imagen-2.png"
+    },
+    {
+      "Id": "C:\\Users\\jonander.ruiz\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\Imagenes\\nyt.PNG",
+      "PackagePath": "staticwebassets\\Imagenes\\nyt.PNG"
+    },
+    {
+      "Id": "C:\\Users\\jonander.ruiz\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\Imagenes\\reddit.PNG",
+      "PackagePath": "staticwebassets\\Imagenes\\reddit.PNG"
+    },
+    {
+      "Id": "C:\\Users\\jonander.ruiz\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\Imagenes\\steam.PNG",
+      "PackagePath": "staticwebassets\\Imagenes\\steam.PNG"
+    },
+    {
+      "Id": "C:\\Users\\jonander.ruiz\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
       "Id": "C:\\Users\\jonander.ruiz\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

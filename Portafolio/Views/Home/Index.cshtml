@@ -1,11 +1,11 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model HomeIndexViewModel
+
+@{
+    ViewData["Title"] = "Página principal";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Soy "Nombre"</h1>
-    <h2>Soy un desarrollador full stack especializado en tecnologías .Net y JavaScript</h2>
-   <img 
-    style="width:200px;margin:2rem 0; border-radius:50%"
-    src="~/imagenes/FotoPerfil.png" alt="Foto de perfil"/>
-</div>
+<partial name="_Presentation" />
+
+<partial name="_Skills" />
+
+<partial name="_ProjectSection" model="Model.Projects"/>
